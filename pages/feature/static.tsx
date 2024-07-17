@@ -1,4 +1,4 @@
-export const runtime="edge";
+export const runtime="experimental-edge";
 import PokemonDisplay from "@/components/pokemonDisplay"
 import { Pokemon } from "@/types/pokemon"
 
