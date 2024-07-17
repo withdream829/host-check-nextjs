@@ -1,3 +1,4 @@
+export const runtime="experimental-edge";
 import { Pokemon } from "@/types/pokemon";
 import type { NextApiRequest, NextApiResponse } from "next";
 
